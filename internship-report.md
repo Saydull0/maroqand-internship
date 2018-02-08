@@ -9,7 +9,7 @@
 
   `<map>`   __tag is used to define a client-side image-map. An image-map is an image with clickable areas__
 
-```
+``` html
 <map>
 <img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
 
@@ -22,7 +22,9 @@
 
 `<iframe>`  __is used to display a web page within a web page__
 
-`<iframe src="demo_iframe.htm" height="200" width="300"></iframe>`
+``` html
+<iframe src="demo_iframe.htm" height="200" width="300"></iframe>
+```
 
 
 <hr>
